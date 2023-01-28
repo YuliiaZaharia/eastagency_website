@@ -5690,7 +5690,7 @@ textarea.custom-input {
 .post-sb-page__main-pic--inner .post-sb-page__tag {
   font-size: 18px;
   line-height: 24px;
-  color: #ffffff;
+  color: #3D8361;
   margin-bottom: 10px;
   transition: color 0.3s ease;
 }
@@ -5715,7 +5715,7 @@ textarea.custom-input {
   font-size: 40px;
   line-height: 44px;
   font-weight: 700;
-  color: #ffffff;
+  color: #3D8361;
 }
 
 @media (min-width: 992px) {
